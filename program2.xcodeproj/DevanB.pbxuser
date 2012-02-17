@@ -1,0 +1,82 @@
+// !$*UTF8*$!
+{
+	054013571122019100F140AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05D4D5181121E573007B99CC /* program2.cpp */;
+		name = "program2.cpp: 1";
+		rLen = 0;
+		rLoc = 11;
+		rType = 0;
+		vrLen = 419;
+		vrLoc = 0;
+	};
+	054013591122019100F140AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05D4D5181121E573007B99CC /* program2.cpp */;
+		name = "program2.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 424;
+		vrLoc = 0;
+	};
+	05D4D50D1121E563007B99CC /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		addToTargets = (
+		);
+		codeSenseManager = 05D4D5121121E563007B99CC /* Code sense */;
+		ignoreBreakpointsInProjectsDict = {
+		};
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 287439665;
+			PBXWorkspaceStateSaveDate = 287439665;
+		};
+		perUserProjectItems = {
+			054013571122019100F140AE /* PBXTextBookmark */ = 054013571122019100F140AE /* PBXTextBookmark */;
+			054013591122019100F140AE /* PBXTextBookmark */ = 054013591122019100F140AE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 05D4D5111121E563007B99CC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	05D4D5111121E563007B99CC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	05D4D5121121E563007B99CC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	05D4D5181121E573007B99CC /* program2.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 504}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 424}";
+		};
+	};
+}
